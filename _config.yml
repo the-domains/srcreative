@@ -1,0 +1,28 @@
+name: srcreative
+favicon: null
+layout_spectrum: 0.7700917050242424
+typography_spectrum: 0.69200005591847
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7209567117970437
+  lightness: 0.8695786404423416
+  saturation: 0.5070546129718423
+  rhythmicContrast: 0.3428102917969227
+purpose: []
