@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[srcreative]]></title>
         <description><![CDATA[srcreative]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/srcreative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 06:29:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 06:34:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/srcreative/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Grid entry numero uno. Post #srpgala day, I learned so much about event planning! It was a huge success and I'm excited to launch my photography business internationally. Care to join me? </p>]]></description>
-            <link>undefinedgrid-entry-numero-uno-post-srpgala-day-i-learned-so-much/index.html</link>
+            <link>https://thegrid.ai/srcreative/grid-entry-numero-uno-post-srpgala-day-i-learned-so-much/index.html</link>
             <guid isPermaLink="false">4c48c4bf-0fda-42db-aaf6-57640063163f</guid>
-            <pubDate>Sat, 09 Apr 2016 06:29:50 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2016 06:34:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
